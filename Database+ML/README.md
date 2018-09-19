@@ -9,4 +9,6 @@ Papers for applying machine learning techniques in database system
 
 * Self-Driving Database Management Systems. CIDR 2017.
 
+* Database Learning:Toward a Database that Becomes Smarter Every Time ARXIV 
 
+* Learning to Optimize Join Queries With Deep Reinforcement Learning ARXIV
